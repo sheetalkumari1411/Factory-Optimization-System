@@ -25,6 +25,7 @@ This project is a data-driven decision support system that recommends the best f
 - Map visualization
 
 ## ▶️ How to Run
-pip install -r requirements.txt
-python -m streamlit run app/streamlit_app.py
+- pip install -r requirements.txt
+
+- python -m streamlit run app/streamlit_app.py
 
