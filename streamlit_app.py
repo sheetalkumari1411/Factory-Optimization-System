@@ -5,7 +5,7 @@ import sys
 import os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
-from src.map_visualization import create_map
+from map_visualization import create_map
 
 # -----------------------------
 # PAGE CONFIG
